@@ -1,8 +1,12 @@
-# How this project was created
+# React hamburger menu with styled-components
+
+## Create
 
 ```bash
 npx create-react-app react-burger
 ```
+
+## Install
 
 ```bash
 npm install --save styled-components
